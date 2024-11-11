@@ -22,6 +22,9 @@ Then Login to AWS Console
 
 ![8.png](https://github.com/ssquadri/AWS-S3-Static-Website/blob/main/8.png)
 
+
+Upload the index.html given in this repo to your S3 bucket
+
 ![9.png](https://github.com/ssquadri/AWS-S3-Static-Website/blob/main/9.png)
 
 ![10.png](https://github.com/ssquadri/AWS-S3-Static-Website/blob/main/10.png)
